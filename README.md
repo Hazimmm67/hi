@@ -1,8 +1,10 @@
 # hi
 Try
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 wey tgh try jap
+
 =======
 ni untuk bro sahaja
-try balik
+ni nak merge 
 >>>>>>> Stashed changes
